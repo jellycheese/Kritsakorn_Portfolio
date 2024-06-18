@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": "2a58",
+      "name": "miumiu",
+      "lname": "miu",
+      "username": "miu2",
+      "phone": "0985091414",
+      "email": "mslot999@gmail.com",
+      "password": "1234567890",
+      "confirmPassword": "12345467890",
+      "address": "168/449 B Tower",
+      "city": "klongluang",
+      "country": "klongnueng",
+      "postalCode": "12120"
+    },
+    {
+      "id": "3b34",
+      "name": "Rawiwan",
+      "lname": "Simmakum",
+      "username": "miumiu",
+      "phone": "0985091414",
+      "email": "mslot999@gmail.com",
+      "password": "11111",
+      "confirmPassword": "11111",
+      "address": "123",
+      "city": "loei",
+      "country": "loei",
+      "postalCode": "42000"
+    },
+    {
+      "id": "537f",
+      "name": "Rawiwan",
+      "lname": "Simmakum",
+      "username": "miumiu",
+      "phone": "0985091414",
+      "email": "mslot999@gmail.com",
+      "password": "11111",
+      "confirmPassword": "11111",
+      "address": "123",
+      "city": "loei",
+      "country": "loei",
+      "postalCode": "42000"
+    },
+    {
+      "id": "73c4",
+      "name": "Rawiwan",
+      "lname": "Simmakum",
+      "username": "miumiu",
+      "phone": "0985091414",
+      "email": "22222@gmail.com",
+      "password": "11111",
+      "confirmPassword": "11111",
+      "address": "123",
+      "city": "loei",
+      "country": "loei",
+      "postalCode": "42000"
+    },
+    {
+      "id": "37ce",
+      "name": "wai",
+      "lname": "devi;",
+      "username": "waidevil",
+      "phone": "0970637210",
+      "email": "wainakrab@hotmail.com",
+      "password": "1w1A1i99",
+      "confirmPassword": "1w1A1i99",
+      "address": "tu",
+      "city": "tu",
+      "country": "tu",
+      "postalCode": "42000"
+    },
+    {
+      "id": "8242",
+      "name": "krit",
+      "lname": "kritcutecute",
+      "username": "sexykrit",
+      "phone": "0987654321",
+      "email": "sexykrit@gmail.com",
+      "password": "11111",
+      "confirmPassword": "11111",
+      "address": "123",
+      "city": "loei",
+      "country": "loei",
+      "postalCode": "42000"
+    }
+  ],
+  "products": [
+    {
+      "slug": "book",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+      "title": "Harry Potter",
+      "description": "fun and fantasy",
+      "price": 200,
+      "id": "597f"
+    },
+    {
+      "slug": "accessory",
+      "image": "accessory.jpg",
+      "title": "pink heart ring",
+      "description": "this accessory is awesome!",
+      "price": 150,
+      "id": "bf01"
+    },
+    {
+      "slug": "clothes",
+      "image": "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/09/30/3834c023-9c21-42a2-a890-1b0335581c27_3debc528.jpg",
+      "title": "Dior dress",
+      "description": "งานแท้ชนชอป",
+      "price": 1000,
+      "id": "7a06"
+    },
+    {
+      "slug": "book",
+      "image": "https://people.com/thmb/6GgRGzswbaI_rRYy3VnZw4sFkgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/lindsay-lohan-lacey-chabert-amanda-seyfried-rachel-mcadams-mean-girls-031523-1-7a527e8741c44478a7485042bdd1b93c.jpg",
+      "title": "Mean Girls",
+      "description": "you can sit with us bitch",
+      "price": 200,
+      "id": "aed0"
+    },
+    {
+      "slug": "accessory",
+      "image": "accessory.jpg",
+      "title": "this accessory",
+      "description": "this accessory is awesome!",
+      "price": 150,
+      "id": "6148"
+    },
+    {
+      "slug": "clothes",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/the-new-look-101-photoo-010111.jpg?c=original",
+      "title": "Dior Gold dress",
+      "description": "งานเกรดพรีเมียมเลยน้า",
+      "price": 2500,
+      "id": "1b8d"
+    },
+    {
+      "slug": "book",
+      "image": "https://cms.dmpcdn.com/moviearticle/2020/08/11/461cada0-dbf0-11ea-a0b4-232d08119930_original.jpg",
+      "title": "สิ่งเล็กๆที่เรียกว่ารัก",
+      "description": "พี่โชนน้องนํ้า",
+      "price": 200,
+      "id": "5fac"
+    },
+    {
+      "slug": "accessory",
+      "image": "accessory.jpg",
+      "title": "this accessory",
+      "description": "this accessory is awesome!",
+      "price": 150,
+      "id": "728e"
+    },
+    {
+      "slug": "clothes",
+      "image": "https://i.pinimg.com/474x/a0/f1/26/a0f126c812d2f8795e3501f1300c889d.jpg",
+      "title": "Dior 2021",
+      "description": "ของแทร่ ของจริง",
+      "price": 100,
+      "id": "c9e1"
+    },
+    {
+      "id": "6017",
+      "title": "CLOTHES SALTY",
+      "description": "ใส่สวยมาก",
+      "price": 20,
+      "slug": "clothes",
+      "image": "https://img.rasset.ie/00156431-1600.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "b219",
+      "slug": "book",
+      "title": "Harry Potter",
+      "description": "fun and fantasy",
+      "price": "200",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg"
+    },
+    {
+      "id": "f74a",
+      "slug": "accessory",
+      "title": "pink heart ring",
+      "description": "this accessory is awesome!",
+      "price": "150",
+      "image": "accessory.jpg"
+    },
+    {
+      "id": "07fe",
+      "slug": "accessory",
+      "title": "pink heart ring",
+      "description": "this accessory is awesome!",
+      "price": "150",
+      "image": "accessory.jpg"
+    },
+    {
+      "id": "a475",
+      "slug": "accessory",
+      "title": "pink heart ring",
+      "description": "this accessory is awesome!",
+      "price": "150",
+      "image": "accessory.jpg"
+    },
+    {
+      "id": "e8a3",
+      "slug": "book",
+      "title": "Harry Potter",
+      "description": "fun and fantasy",
+      "price": "200",
+      "image": ""
+    }
+  ],
+  "likes": [
+    {
+      "id": "9c99",
+      "slug": "book",
+      "title": "Harry Potter",
+      "description": "fun and fantasy",
+      "price": "200",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg"
+    },
+    {
+      "id": "72ee",
+      "slug": "book",
+      "title": "Harry Potter",
+      "description": "fun and fantasy",
+      "price": "200",
+      "image": null
+    },
+    {
+      "id": "bc09",
+      "slug": "clothes",
+      "title": "Dior dress",
+      "description": "งานแท้ชนชอป",
+      "price": "1000",
+      "image": null
+    }
+  ]
+}

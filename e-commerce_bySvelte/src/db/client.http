@@ -1,0 +1,46 @@
+GET http://localhost:3000/users
+
+POST http://localhost:3000/users HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "miumiu",
+    "lname": "miu",
+    "username": "miu2",
+    "phone": "0985091414",
+    "email": "mslot999@gmail.com",
+    "password": "1234567890",
+    "confirmPassword": "12345467890",
+    "address": "168/449 B Tower",
+    "city": "klongluang",
+    "country": "klongnueng",
+    "postalCode": "12120"
+}
+
+GET http://localhost:3000/products
+
+POST http://localhost:3000/products HTTP/1.1
+Content-Type: application/json
+
+{
+    "slug": "",
+    "title": "",
+    "description": "",
+    "price": ""
+
+}
+
+
+POST http://localhost:3000/carts HTTP/1.1
+Content-Type: application/json
+
+{
+    "slug": "",
+    "title": "",
+    "description": "",
+    "price": ""
+
+}
+
+
+
