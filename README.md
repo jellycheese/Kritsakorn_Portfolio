@@ -1,5 +1,5 @@
 วิธีสั่งรัน Svelte
-1.ca ที่ โฟลเดอร์ต้องการจะรัน
+1.cd ที่ โฟลเดอร์ต้องการจะรัน
 2.npm install ison-server
 3.cd. sieldb
 4 npx ison-server. db.json
